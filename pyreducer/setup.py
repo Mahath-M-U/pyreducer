@@ -1,11 +1,13 @@
 from setuptools import setup
 
-setup(name='funniest',
+setup(
+      name='pyreducer',
       version='0.0.1',
-      description='python libri',
-      url='http://github.com/storborg/funniest',
-      author='Mahath',
+      description='package for optimize common task ',
+      url='https://github.com/Mahath-M-U/pyreducer',
+      author='Mahath M U',
       author_email='mahathmu@outlook.com',
-      license='MIT',
-      packages=['funniest'],
-      zip_safe=False)
+      license='GNU GPL v3',
+      packages=['pyreducer'],
+      zip_safe=False
+      )
