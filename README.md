@@ -17,7 +17,7 @@ Pyreducer is Python work reducer package for reduce the complexity of common tas
  Example For Str content
 ```python
     from pyreducer import write_log
-    write_log('content to the log ')
+    write_log('content to the log File')
 ```
  Example For Dict content
 ```python
